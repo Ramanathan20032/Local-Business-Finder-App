@@ -1,1 +1,1 @@
-[link](https://local-business-finder.netlify.app/)
+https://local-business-finder.netlify.app/
