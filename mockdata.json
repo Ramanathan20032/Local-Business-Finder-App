@@ -1,0 +1,545 @@
+  [
+    {
+      "info": {
+        "id": "559820",
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/ada9dd71-dbe7-4e21-928a-3388f7cef91b_559820.jpg",
+        "areaName": "Kk Nagar",
+        "costForTwo": "₹350 for two",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "5.8K+",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",  
+        "distanceInMeters" : "350",    
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/pizza-hut-managiri-kk-nagar-rest559820",
+          "type": "WEBLINK",
+          "mapLink": "https://www.google.com/maps/place/Pizza+Hut/@9.9293248,78.1408504,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c5f38b91e4c5:0x26bf02d89f3d8133!8m2!3d9.9293248!4d78.1434253!16s%2Fg%2F11t5f7d1p1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
+        }
+      }
+    },
+    {
+        "info": {
+        "id": "350017",
+        "name": "Subway",
+        "type" : "cafe",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/fe939859-9cb6-4c9b-98f3-cad11c67bb5a_350017.JPG",
+        "areaName": "Periyar",
+        "costForTwo": "₹400 for two",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "3.8K+",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "2.8 km",  
+        "distanceInMeters" : "8700", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/subway-bypass-road-periyar-rest350017",
+          "type": "WEBLINK",
+          "mapLink": "https://www.google.com/maps/place/Subway/@9.9199039,78.0813179,15z/data=!4m6!3m5!1s0x3b00cffb40aa41cd:0x82a22b245746d2e8!8m2!3d9.9199027!4d78.0940643!16s%2Fg%2F11n159y8cc?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "454199",
+        "name": "KFC",
+        "type": "restaurant",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/b5880e81-494b-414d-94e7-ddcce376b05f_454199.JPG",
+        "areaName": "KK Nagar",
+        "costForTwo": "₹400 for two",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "5.8K+",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.6 km", 
+        "distanceInMeters" : "400", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/kfc-vinayaga-nagar-kk-nagar-rest454199",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/7b4X84ZH8Town3FU7"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "449355",
+        "name": "The Belgian Waffle Co.",
+        "type":"cafe",
+        "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
+        "areaName": "Anna Nagar",
+        "costForTwo": "₹200 for two",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.6K+",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "4.3 km",   
+        "distanceInMeters" : "1800",              
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/the-belgian-waffle-co-vaigai-colony-anna-nagar-rest449355",
+          "type": "WEBLINK",
+          "mapLink": "https://www.google.com/maps/place/The+Belgian+Waffle+Co/@9.9167941,78.1485524,7z/data=!4m6!3m5!1s0x3b00c519b8f65115:0xfc1ee4569959432c!8m2!3d9.9167869!4d78.1483317!16s%2Fg%2F11rk05f9rf?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "80481",
+        "name": "Domino's Pizza",
+        "type":"restaurant",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/29/625fc333-4e10-4ac5-994d-9e865db2e1da_80481.jpg",
+        "locality": "Bypass Main Road",
+        "areaName": "SS Colony",
+        "costForTwo": "₹400 for two",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "2.6K+",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "4.1 km",
+        "distanceInMeters" : "160", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/dominos-pizza-bypass-main-road-ss-colony-rest80481",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/5YkdkDtSEX1gXSi9A"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "84560",
+        "name": "Baskin Robbins - Desserts",
+        "type": "cafe",
+        "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+        "areaName": "Sathamangalam",
+        "costForTwo": "₹150 for two",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.6K+",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "4.3 km",  
+        "distanceInMeters" : "1800",         
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/baskin-robbins-ice-cream-desserts-anna-nagar-sathamangalam-rest84560",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/pfvVPhaY55DPdD369"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "80259",
+        "name": "Sabarees Veg Restaurant",
+        "type": "restaurant",
+        "cloudinaryImageId": "qzfsmoerj0ma5coq3pmp",
+        "areaName": "Southern Railway Colony",
+        "costForTwo": "₹300 for two",
+        "avgRating": 4.6,
+        "avgRatingString": "4.6",
+        "totalRatingsString": "44K+",
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.4 km",
+        "distanceInMeters" : "720", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/sabarees-veg-restaurant-west-perumal-maistry-street-southern-railway-colony-rest80259",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/8yPM6Nz2EE7zWV1a8"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "745725",
+        "name": "Salem RR Biriyani",
+        "type":"restaurant",
+        "cloudinaryImageId": "f60a7f94250ee888893cf2c1a546e732",
+        "areaName": "Kamarajarsalai",
+        "costForTwo": "₹450 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "7.1K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.4 km",   
+        "distanceInMeters" : "2300",        
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/salem-rr-biriyani-kamarajar-salai-kamarajarsalai-rest745725",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/wBAa2MLCHibk3zcu9"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "5659820",
+        "name": "Frozen Bottle",
+        "type": "cafe",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/6/8c8fca4e-d582-4219-9e51-d114aee9f771_986330.jpg",
+        "areaName": "KK Nagar",
+        "costForTwo": "₹350 for two",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "5.8K+",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "5.0 km",   
+        "distanceInMeters" : "600",    
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/frozen-bottle-milkshakes-desserts-and-ice-cream-corporation-ward-61-madurai-bypass-rest986330",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/VNXh9QDF6gqsqKX99"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "82940",
+        "name": "Carnivall (chokkikulam)",
+        "type":"restaurant",
+        "cloudinaryImageId": "lazkngldib1aljanob4z",
+        "areaName": "Near Vishal De Mall",
+        "costForTwo": "₹460 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "54K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.0 km",     
+        "distanceInMeters" : "1000",      
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/carnivall-chokkikulam-gokhale-road-near-vishal-de-mall-rest82940",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/Zu4agz3jJNTdfcZCA"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "101091",
+        "name": "Hotel New Sri Sabarees",
+        "type": "restaurant",
+        "cloudinaryImageId": "m3uwlzsqvzi0ypi01dn2",
+        "areaName": "SS Colony",
+        "costForTwo": "₹300 for two",        
+        "avgRatingString": "4.5",
+        "totalRatingsString": "19K+",        
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.5 km",   
+        "distanceInMeters" : "3900",    
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/hotel-new-sri-sabarees-west-perumal-maistry-street-ss-colony-rest101091",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/rkL1auSbv5GC3fEU8"        
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "5555520",
+        "name": "The Thick Shake",
+        "type":"cafe",
+        "cloudinaryImageId": "e4116bb5ffd150e523325c12cedc9120",
+        "areaName": "Near Vishal De Mall",
+        "costForTwo": "₹500 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "9.8K+",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "3.0 km",  
+        "distanceInMeters" : "1100",     
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/the-thick-shake-factory-gokhale-road-vishaal-de-mall-rest759199",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/ihZmHK92mWVSyrbg8"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "125511",
+        "name": "Sekar Konar Mess",   
+        "type":"restaurant",     
+        "cloudinaryImageId": "m9umaeke9jfpcbfiqafz",
+        "areaName": "Simmakal",
+        "costForTwo": "₹250 for two",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "14K+",
+        "slaString": "5-10 mins", 
+        "distanceInMeters" : "2900",        
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/sekar-konar-mess-northveli-street-simmakal-rest125511",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/KDXsZMP59RK2c63p6"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "559820",
+        "name": "SS Coffee Rush",
+        "type":"cafe",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/11/ebe08158-92ab-4d98-bc8f-d39d3b11d739_924257.jpg",
+        "areaName": "Periyar",
+        "costForTwo": "₹300 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5.8K+",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "6.0 km", 
+        "distanceInMeters" : "4800",      
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/ss-coffee-rush-s-s-colony-periyar-rest924257",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/7EExHEmHW8wSekXC9"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "228358",
+        "name": "12 O Clock Biryani",
+        "type": "restaurant",
+        "cloudinaryImageId": "w4jcyuqo9udkvajlqkvt",
+        "areaName": "KK Nagar",
+        "costForTwo": "₹450 for two",        
+        "avgRatingString": "4.4",
+        "totalRatingsString": "4.5K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.0 km",
+        "distanceInMeters" : "160",           
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/12-o-clock-biryani-karumbalai-main-road-kk-nagar-rest228358",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/GygYPHx1ZXrzy4Fn6"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "101642",
+        "name": "Pechiamman Non Veg Restaurant",
+        "type": "restaurant",
+        "cloudinaryImageId": "aavkopmjr70mwlepejhv",
+        "areaName": "SS Colony",
+        "costForTwo": "₹450 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "20K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.0 km",      
+        "distanceInMeters" : "4200",     
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/pechiamman-non-veg-restaurant-avaniyapuram-road-ss-colony-rest101642",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/Nd31yAZXpU6wsDUS6"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "101091",
+        "name": "Hotel New Sri Sabarees",
+        "type": "restaurant",
+        "cloudinaryImageId": "m3uwlzsqvzi0ypi01dn2",
+        "areaName": "SS Colony",
+        "costForTwo": "₹300 for two",        
+        "avgRatingString": "4.5",
+        "totalRatingsString": "19K+",        
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.5 km",   
+        "distanceInMeters" : "3900",    
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/hotel-new-sri-sabarees-west-perumal-maistry-street-ss-colony-rest101091",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/rkL1auSbv5GC3fEU8"        
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "759820",
+        "name": "Tea Time",
+        "type":"cafe",
+        "cloudinaryImageId": "ykxyrh5oxsx8wmlagl6l",
+        "areaName": "Anna Nagar",
+        "costForTwo": "₹350 for two",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1.5K+",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",  
+        "distanceInMeters" : "1800",      
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/tea-time-vaigai-colony-iyer-bungalow-rest479519",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/mSf7kwQwBrUzaA8LA"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "80295",
+        "name": "Aachi Chettinadu Restaurant",
+        "type":"restaurant",
+        "cloudinaryImageId": "glwezmo2cisjj9mvq6ae",
+        "areaName": "Opp to Railway Junction",
+        "costForTwo": "₹350 for two",        
+        "avgRatingString": "4.2",
+        "totalRatingsString": "11K+",        
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.5 km",
+        "distanceInMeters" : "4000", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/aachi-chettinadu-restaurant-s-s-colony-opp-to-railway-junction-rest80295",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/vrwXUKpxxfPGRem19"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "414491",
+        "name": "Hotel Dharshana",
+        "type":"restaurant",
+        "cloudinaryImageId": "v4nghponyzsubdouwmvn",
+        "areaName": "Sathamangalam",
+        "costForTwo": "₹350 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "4.1K+",      
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.6 km",   
+        "distanceInMeters" : "2000",        
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/hotel-dharshana-anna-nagar-sathamangalam-rest414491",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/bgtJDqrC5Cbx788JA"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "164857",
+        "name": "Pechiamman Veg Restaurant ",
+        "type":"restaurant",
+        "cloudinaryImageId": "mxvk3zelpmjchd4y1fwl",
+        "areaName": "SS Colony",
+        "costForTwo": "₹250 for two",        
+        "avgRatingString": "4.5",
+        "totalRatingsString": "16K+",        
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.8 km",   
+        "distanceInMeters" : "4400",       
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/pechiamman-veg-restaurant-a-p-k-main-road-ss-colony-rest164857",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/QXyc3FgGycXEN87p6"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "351504",
+        "name": "Shree Aishwaryam Pure Veg",
+        "type":"restaurant",        
+        "cloudinaryImageId": "jfbuaffn1hncvp1hpnft",
+        "areaName": "Iyer Bungalow",
+        "costForTwo": "₹250 for two",       
+        "avgRatingString": "4.4",
+        "totalRatingsString": "17K+",        
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.9 km", 
+        "distanceInMeters" : "650",          
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/shree-aishwaryam-pure-veg-deputy-collector-colony-iyer-bungalow-rest351504",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/3EGC2cey772iQq656"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "82235",
+        "name": "Madurai Milk Factory",
+        "type":"cafe",
+        "cloudinaryImageId": "222d7adeede9d84eeeb5bcb830560bb7",
+        "areaName": "SS Colony",
+        "costForTwo": "₹50 for two",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "2.8K+",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "5.0 km",
+        "distanceInMeters" : "8000", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/madura-milk-factory-ss-colony-rest821043",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/cDqd86toXugKfLmS9"
+        }
+
+      }
+    },
+    {
+      "info": {
+        "id": "81190",
+        "name": "Ambur Star Briyani Since 1890",
+        "type":"restaurant",
+        "cloudinaryImageId": "wqbd9zvrtiwxyqhnmliy",
+        "areaName": "Arrapalayam",
+        "costForTwo": "₹300 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.7 km",
+        "distanceInMeters" : "5300", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/ambur-star-briyani-since-1890-bypass-road-arrapalayam-rest81190",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/WnBHShC8wGHsU9LdA"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "275351",
+        "name": "Lucky Mydeen Biriyani",
+        "type": "restaurant",
+        "cloudinaryImageId": "bce2179889653ce2f028bc1927df6dee",
+        "areaName": "Opp to Astoria Hotel",
+        "costForTwo": "₹500 for two",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "3.0K+",        
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.4 km", 
+        "distanceInMeters" : "4500",          
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/lucky-mydeen-biriyani-kennet-road-opp-to-astoria-hotel-rest275351",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/pMcUr2UbA2dmaAUx7"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "59820",
+        "name": "welcome Cafe",
+        "type":"cafe",
+        "cloudinaryImageId": "fcee676df41abe3fa8b474ece9d2b77d",
+        "areaName": "Iyer Bungalow",
+        "costForTwo": "₹40 for two",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "3.7K+",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.0 km",      
+        "distanceInMeters" : "4500", 
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/welcome-cafe-kosakulam-iyer-bungalow-rest846278",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/1H6L5m6mSN5FGEek6"
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "82035",
+        "name": "Andhra Curry",
+        "type": "restaurant",
+        "cloudinaryImageId": "rapasrj4cf0mr2dao135",
+        "areaName": "Panagal Road",
+        "costForTwo": "₹400 for two",        
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",       
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.0 km",   
+        "distanceInMeters" : "1400",        
+        "cta": {
+          "link": "https://www.swiggy.com/city/madurai/andhra-curry-panagal-road-rest82035",
+          "type": "WEBLINK",
+          "mapLink": "https://maps.app.goo.gl/iARad4DF4fo3v9K26"
+        }
+      }
+    }  
+  ]
+
